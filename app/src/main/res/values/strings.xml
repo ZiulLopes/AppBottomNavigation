@@ -1,3 +1,6 @@
 <resources>
-    <string name="app_name">AppBottomNavigation</string>
+    <string name="app_name">App Bottom Navigation</string>
+    <string name="bottom_nav_user">Usuario</string>
+    <string name="bottom_nav_users">Usuarios</string>
+    <string name="bottom_nav_block">Usuario</string>
 </resources>
